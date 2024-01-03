@@ -1,3 +1,7 @@
+<div align="center">
+  <img style="margin:0 auto;" src='/logo.png' alt="Omegle app"/>
+</div>
+
 # [Omegle](https://omegleapp.me)
 
 Visit [Omegle](https://omegleapp.me) to engage in random text or video chats with strangers from around the world.
