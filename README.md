@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="margin:0 auto;" src='/logo.png' alt="Omegle app"/>
+  <img style="margin:0 auto;width:120px;height:120px;" src='/logo.png' alt="Omegle app"/>
 </div>
 
 # [Omegle](https://omegleapp.me)
